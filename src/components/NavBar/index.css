@@ -1,0 +1,8 @@
+/* Write your code here. */
+.pro {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #ffffff;
+  background-color: blueviolet;
+}

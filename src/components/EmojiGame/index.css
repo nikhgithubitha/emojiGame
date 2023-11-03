@@ -1,0 +1,14 @@
+/* Write your code here. */
+.style {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.bg {
+  background-color: blueviolet;
+  font-family: 'Roboto';
+  height: 100vh;
+  background-size: cover;
+}
